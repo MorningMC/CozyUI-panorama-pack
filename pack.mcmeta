@@ -1,0 +1,43 @@
+{
+	"pack": {
+		"pack_format": 33,
+		"supported_formats": [
+			1,
+			9999
+		],
+		"description": [
+			{
+				"bold": true,
+				"italic": false,
+				"underlined": false,
+				"strikethrough": false,
+				"text": "By ",
+				"color": "#ffffff"
+			},
+			{
+				"bold": true,
+				"italic": false,
+				"underlined": false,
+				"strikethrough": false,
+				"text": "零雾〇五Fogg05",
+				"color": "#ffffff"
+			},
+			{
+				"bold": false,
+				"italic": false,
+				"underlined": false,
+				"strikethrough": false,
+				"text": ", edited by MorningMC\n",
+				"color": "#ffffff"
+			},
+			{
+				"bold": false,
+				"italic": false,
+				"underlined": false,
+				"strikethrough": false,
+				"text": "made for 1.21",
+				"color": "#54fcfc"
+			}
+		]
+	}
+}
