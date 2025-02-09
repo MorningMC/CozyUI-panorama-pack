@@ -11,6 +11,9 @@ Additional links:
 [GitHub](https://github.com/MorningMC/CozyUI-panorama-pack)
 [Modrinth](https://modrinth.com/project/cozyui-panorama-pack)
 
+## Screenshot 🪟
+<img src="screenshot.png" alt="Main menu" />
+
 ## License
 
 Copyright (C) 2025 < MorningMC >
