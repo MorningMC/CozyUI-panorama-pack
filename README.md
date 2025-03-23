@@ -1,4 +1,4 @@
-# <img src="pack.png" alt="icon" width="24" height="24"> CozyUI+ Panorama pack
+# <img src="https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/pack.png" alt="icon" width="24" height="24"> CozyUI+ Panorama pack
 ![](https://img.shields.io/badge/license-GPLv3-green)
 ![](https://img.shields.io/github/repo-size/MorningMC/CozyUI-panorama-pack)
 ![](https://img.shields.io/github/stars/MorningMC/CozyUI-panorama-pack)
@@ -12,6 +12,7 @@ Additional links:
 [Modrinth](https://modrinth.com/project/cozyui-panorama-pack)
 
 ## Screenshot 🪟
+
 ![Main menu](https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/screenshot.png)
 
 ## License
@@ -31,6 +32,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-This project is based on [Fogg05/CozyUI-Plus](https://github.com/Fogg05/CozyUI-Plus), 
+This project is based on [Fogg05/CozyUI-Plus](https://github.com/Fogg05/CozyUI-Plus),
 which is licensed under the GNU General Public License v3.0.
 The source code is available at <https://github.com/MorningMC/CozyUI-panorama-pack>.
