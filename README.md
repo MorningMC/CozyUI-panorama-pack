@@ -17,7 +17,7 @@ Additional links:
 
 ## License
 
-Copyright (C) 2025 < MorningMC >
+Copyright (C) 2025 MorningMC
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
