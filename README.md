@@ -5,11 +5,12 @@
 ![](https://img.shields.io/github/contributors/MorningMC/CozyUI-panorama-pack)
 ![](https://img.shields.io/github/commit-activity/y/MorningMC/CozyUI-panorama-pack)
 
-A simple Minecraft resource pack that only contains panoramas in CozyUI+ pack
+A simple Minecraft resource pack that contains panoramas in CozyUI+, and also modified skybox!
+Works with [Optifine](https://optifine.net/) or [Nuit](https://modrinth.com/mod/nuit) (with [Nuit Interop](https://modrinth.com/mod/nuit-interop)).
 
-Additional links:
-[GitHub](https://github.com/MorningMC/CozyUI-panorama-pack)
-[Modrinth](https://modrinth.com/project/cozyui-panorama-pack)
+**DO NOT enable shaders since some of them will overwrite the skybox!**
+
+May be helpful to animators.
 
 ## Screenshot 🪟
 
