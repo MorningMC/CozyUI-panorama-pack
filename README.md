@@ -9,7 +9,7 @@ A simple Minecraft resource pack that only contains panoramas in CozyUI+ pack
 
 Additional links:
 [GitHub](https://github.com/MorningMC/CozyUI-panorama-pack)
-[Modrinth](https://modrinth.com/project/cozyui-panorama-pack)
+[Modrinth](https://modrinth.com/resourcepack/cozyui-panorama-pack)
 
 ## Screenshots 🪟
 
