@@ -16,10 +16,10 @@ Additional links:
 [GitHub](https://github.com/MorningMC/CozyUI-panorama-pack/tree/skybox)
 [Modrinth](https://modrinth.com/resourcepack/cozyui-panorama-skybox)
 
-## Screenshot 🪟
+## Screenshots 🪟
 
 ![Main menu](https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/screenshot.png)
-![Skybox](https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/screenshot_skybox.png)
+![Skybox](https://github.com/MorningMC/CozyUI-panorama-pack/blob/skybox/screenshot_skybox.png?raw=true)
 
 ## License
 
