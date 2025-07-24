@@ -15,7 +15,7 @@ Additional links:
 
 ![Main menu](https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/screenshot.png)
 
-## License
+## License 📜
 
 Copyright (C) 2025 MorningMC
 
