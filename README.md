@@ -1,4 +1,4 @@
-# <img src="https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/pack.png" alt="icon" width="24" height="24"> CozyUI+ Panorama pack
+# <img src="https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/pack.png" alt="icon" width="24" height="24"> CozyUI+ Panorama pack (Skybox version)
 ![](https://img.shields.io/badge/license-GPLv3-green)
 ![](https://img.shields.io/github/repo-size/MorningMC/CozyUI-panorama-pack)
 ![](https://img.shields.io/github/stars/MorningMC/CozyUI-panorama-pack)
@@ -12,9 +12,14 @@ Works with [Optifine](https://optifine.net/) or [Nuit](https://modrinth.com/mod/
 
 May be helpful to animators.
 
+Additional links:
+[GitHub](https://github.com/MorningMC/CozyUI-panorama-pack/tree/skybox)
+[Modrinth](https://modrinth.com/resourcepack/cozyui-panorama-skybox)
+
 ## Screenshot 🪟
 
 ![Main menu](https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/screenshot.png)
+![Skybox](https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/screenshot_skybox.png)
 
 ## License
 
