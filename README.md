@@ -20,7 +20,7 @@ Additional links:
 ## Screenshots 🪟
 
 ![Main menu](https://github.com/MorningMC/CozyUI-panorama-pack/raw/master/screenshot.png)
-![Skybox](https://github.com/MorningMC/CozyUI-panorama-pack/blob/skybox/screenshot_skybox.png?raw=true)
+![Skybox](https://github.com/MorningMC/CozyUI-panorama-pack/raw/skybox/screenshot_skybox.png)
 
 ## License 📜
 
